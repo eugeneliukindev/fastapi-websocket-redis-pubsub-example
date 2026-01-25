@@ -1,0 +1,9 @@
+[project]
+name = "fastapi-websocket-redis-pubsub-example"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+dependencies = [
+    "fastapi>=0.128.0",
+    "redis>=7.1.0",
+]
